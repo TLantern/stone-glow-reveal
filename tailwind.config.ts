@@ -124,8 +124,8 @@ export default {
 				'accordion-up': 'accordion-up 0.2s ease-out',
 				'fade-in-top': 'fade-in-top 0.8s ease-out',
 				'fade-in-bottom': 'fade-in-bottom 0.8s ease-out',
-				'aurora-rotate': 'aurora-rotate 6s ease-in-out infinite',
-				'rainbow-shift': 'rainbow-shift 4s linear infinite'
+				'aurora-rotate': 'aurora-rotate 12s ease-in-out infinite',
+				'rainbow-shift': 'rainbow-shift 15s linear infinite'
 			}
 		}
 	},
